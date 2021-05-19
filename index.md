@@ -4,7 +4,7 @@
 
 ### EXCEL - Captsone Project 1 
 
-[Project 1 Title](/sample_page)
+[Creating Interactive Dashboard and Data Storytelling with Excel](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
@@ -12,7 +12,7 @@
 
 ### SQL - Captsone Project 2
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Analyze Data with SQL](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
@@ -20,7 +20,7 @@
 
 ### POWER BI - Captsone Project 3
 
-[Project 3 Title](http://example.com/)
+[Analyzing and Visualizing Data with Power BI](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
@@ -28,7 +28,7 @@
 
 ### PYTHON - Captsone Project 4
 
-[Project 1 Title](/sample_page)
+[Build a Machine Learning Model with Python](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
