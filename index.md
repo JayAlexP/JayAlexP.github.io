@@ -4,8 +4,9 @@
 
 ### EXCEL - Captsone Project 1 
 
-[Creating Interactive Dashboard and Data Storytelling with Excel](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Creating Interactive Dashboard and Data Storytelling with Excel](/sample_page)
+
 
 
 ---
