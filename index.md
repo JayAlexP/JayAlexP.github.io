@@ -23,7 +23,7 @@
 ### POWER BI - Captsone Project 3
 
 [Analyzing and Visualizing Data with Power BI](http://example.com/)
-<img src="images/Capstone 3 - screeshot.jpg?raw=true"/>
+<img src="images/Capstone 3 - screenshot.jpg?raw=true"/>
 
 
 ---
