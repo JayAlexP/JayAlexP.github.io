@@ -38,7 +38,7 @@
 
 ### PYTHON/SQL/Power BI - Summative Capstone
 
-[All in and linked](/pdf/SummativeCapstoneJay.pdf)
+[All in and linked](/pdf/SummativeCapstone.pdf)
 <img src="images/Summative Capstone - Screenshot.jpg?raw=true"/>
 
 
