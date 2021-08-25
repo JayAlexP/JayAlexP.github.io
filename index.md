@@ -34,6 +34,14 @@
 <img src="images/Capstone 4 - Screenshot.jpg?raw=true"/>
 
 
+---
+
+### PYTHON/SQL/Power BI - Summative Capstone
+
+[All in and linked](/pdf/SummativeCapstoneJay.pdf)
+<img src="images/Summative Capstone - Screenshot.jpg?raw=true"/>
+
+
 
 ---
 <!-- p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
