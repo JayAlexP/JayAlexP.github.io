@@ -38,7 +38,7 @@
 
 ### SUMMATIVE CAPSTONE
 
-[SQL/Python/Power BI all linked](/pdf/SummativeCapstone.pdf)
+[SQL / Python / Power BI - all linked](/pdf/SummativeCapstone.pdf)
 <img src="images/Summative Capstone - screenshot.jpg?raw=true"/>
 
 
